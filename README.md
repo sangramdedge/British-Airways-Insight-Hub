@@ -38,3 +38,6 @@ This project explores customer booking data for British Airways, performing Expl
 - Jupyter Notebook
 - Pandas, Matplotlib, Seaborn
 - Scikit-learn
+![image](https://github.com/user-attachments/assets/14fa1b22-6675-4f4a-b068-da70d9082445)
+![image](https://github.com/user-attachments/assets/9ddb8d0b-dc4a-4bb2-aead-376f8cff0613)
+
